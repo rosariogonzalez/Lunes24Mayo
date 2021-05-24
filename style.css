@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@0;1&family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital@0;1&family=Roboto:wght@400;700&display=swap');
 
 body{
   background:#100d11;
@@ -8,7 +8,7 @@ body{
 }
 
 h1,h2,h3, p.lead{
-  font-family: 'Merriweather', serif;
+  font-family: 'Newsreader', serif;
   font-weight: 400;
 }
 
